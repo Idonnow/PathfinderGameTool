@@ -1,0 +1,10 @@
+C:\Users\camil\Desktop\local\PathfinderGameTool\bin\Debug\PathfinderGameTool.exe.config
+C:\Users\camil\Desktop\local\PathfinderGameTool\bin\Debug\PathfinderGameTool.exe
+C:\Users\camil\Desktop\local\PathfinderGameTool\bin\Debug\PathfinderGameTool.pdb
+C:\Users\camil\Desktop\local\PathfinderGameTool\obj\Debug\PathfinderGameTool.csprojAssemblyReference.cache
+C:\Users\camil\Desktop\local\PathfinderGameTool\obj\Debug\PathfinderGameTool.Properties.Resources.resources
+C:\Users\camil\Desktop\local\PathfinderGameTool\obj\Debug\PathfinderGameTool.csproj.GenerateResource.cache
+C:\Users\camil\Desktop\local\PathfinderGameTool\obj\Debug\PathfinderGameTool.csproj.CoreCompileInputs.cache
+C:\Users\camil\Desktop\local\PathfinderGameTool\obj\Debug\PathfinderGameTool.exe
+C:\Users\camil\Desktop\local\PathfinderGameTool\obj\Debug\PathfinderGameTool.pdb
+C:\Users\camil\Desktop\local\PathfinderGameTool\obj\Debug\PathfinderGameTool.FormBeginMenu.resources
